@@ -1,0 +1,16 @@
+DDL	- Data Definition Language
+	Create 
+	Drop
+	Alter
+
+DML - Data Modification Language
+	Insert 
+	Delete
+	Update
+
+DQL - Data Query Language
+	Select
+
+DCL - Data Control Language
+	Grant
+	Revoke
